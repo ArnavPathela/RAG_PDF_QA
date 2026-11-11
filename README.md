@@ -149,16 +149,6 @@ Documents are converted into numerical vector representations using embedding mo
 
 Conversation memory allows the application to consider previous interactions when interpreting follow-up questions, making document interaction more natural.
 
-## 🔮 Future Improvements
-
-- [ ] Migrate deprecated LangChain chains to the newer retrieval-chain architecture.
-- [ ] Implement persistent conversation history.
-- [ ] Add source attribution and page-level citations.
-- [ ] Support additional document formats such as DOCX and TXT.
-- [ ] Improve retrieval using metadata filtering and reranking.
-- [ ] Add document-specific conversation management.
-- [ ] Deploy the application to a cloud platform.
-
 ## 🔐 Security
 
 - Store API keys in environment variables.
